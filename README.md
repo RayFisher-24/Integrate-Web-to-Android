@@ -1,14 +1,14 @@
-# Integrate HTML CSS and JavaScript File to an Android Project 
+# Add HTML CSS and JavaScript File to an Android Project 
 
 ## Step 1: Create a New Project <br />
-  -Open a new project. <br />
-  -We will be working on Empty Activity with language as Java. Leave all other options unchanged. <br />
-  -Name the application at your convenience. <br />
-  -There will be two default files named activity_main.xml and MainActivity.java. <br />
+  - Open a new project. <br />
+  - We will be working on Empty Activity with language as Java. Leave all other options unchanged. <br />
+  - Name the application at your convenience. <br />
+  - There will be two default files named activity_main.xml and MainActivity.java. <br />
 
 ## Step 2: Set-up activity_mian XML File <br />
-  -Delete the default TextView  <br />
-  -Add a WebView <br />
+  - Delete the default TextView  <br />
+  - Add a WebView <br />
 
 Code: <br />
 ```
@@ -24,8 +24,8 @@ Code: <br />
 ```
  C:\Users\Your-Computer-Name\AndroidStudioProjects\Your-Folder-Name\Project\app\src\main 
  ```
-  -Add create a assets folder (note: do not change the assets with asset, Assets or any other then it's not works) <br />
-  -Add your HTML CSS & JS file and it ready to go.
+  - Add create a assets folder (note: do not change the assets with asset, Assets or any other then it's not works) <br />
+  - Add your HTML CSS & JS file and it ready to go.
 
 ## Step 4: Change the MainActivity file <br/>
 ```
