@@ -27,9 +27,9 @@ Code: <br />
   - Add your HTML CSS & JS file and it ready to go.
 
 ## Step 4: Change the MainActivity file <br/>
-  - Create a View 
+  - import a WebView 
 ```
-import the WebView webView; 
+WebView webView; 
 ```
   - Get the id of that WebView by <br/>
 ```
