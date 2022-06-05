@@ -1,6 +1,4 @@
-# Integrate_Web_to_Android
-
-![alt text](https://3.bp.blogspot.com/-Zv8E3PsWgPE/V0A3c86hKoI/AAAAAAAAAIw/ZQJu1ApHQPoRzgKlvxusFdPyUqYdoXhfwCLcB/s1600/application%2Bwork%2Bsharecodepoint.PNG)
+# Integrate HTML CSS and JavaScript File to an Android Project 
 
 ## Step 1: Create a New Project <br />
   -Open a new project. <br />
@@ -41,3 +39,6 @@ Call the HTML file <br/>
 ```
 webView.loadUrl("file:///android_asset/index.html"); 
 ```
+<br />
+![alt text](https://3.bp.blogspot.com/-Zv8E3PsWgPE/V0A3c86hKoI/AAAAAAAAAIw/ZQJu1ApHQPoRzgKlvxusFdPyUqYdoXhfwCLcB/s1600/application%2Bwork%2Bsharecodepoint.PNG)
+
