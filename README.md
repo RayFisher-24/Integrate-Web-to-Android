@@ -8,7 +8,7 @@
 
 ## Step 2: Set-up activity_mian XML File <br />
   - Delete the default TextView  <br />
-  - Add a WebView <br />
+  - Add a new WebView <br />
 
 Code: <br />
 ```
@@ -24,21 +24,23 @@ Code: <br />
 ```
  C:\Users\Your-Computer-Name\AndroidStudioProjects\Your-Folder-Name\Project\app\src\main 
  ```
-  - Add create a assets folder (note: do not change the assets with asset, Assets or any other then it's not works) <br />
+  - Create a assets folder (note: do not change the assets with asset, Assets or any other then it's not works) <br />
   - Add your HTML CSS & JS file and it ready to go.
 
 ## Step 4: Change the MainActivity file <br/>
+  - Create a View 
 ```
 import the WebView webView; 
 ```
-Get the id of that WebView by <br/>
+  - Get the id of that WebView by <br/>
 ```
 webView=findViewById(R.id.idWebView);
 ```
-Call the HTML file <br/>
+  - Call the HTML file <br/>
 ```
 webView.loadUrl("file:///android_asset/index.html"); 
 ```
 <br />
+
 ![alt text](https://3.bp.blogspot.com/-Zv8E3PsWgPE/V0A3c86hKoI/AAAAAAAAAIw/ZQJu1ApHQPoRzgKlvxusFdPyUqYdoXhfwCLcB/s1600/application%2Bwork%2Bsharecodepoint.PNG)
 
